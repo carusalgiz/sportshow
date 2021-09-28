@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Средства гигиены и косметика",
+      "link": "sredstva-gigieny-i-kosmetika",
+      "pic": "~/static/categories/средства гигиены и косметика.jpg",
+      "subs": [
+        {
+          "name": "Шампуни",
+          "link": "shampuni",
+    	  "pic": "~/static/categories/шампуни.jpg"
+        },
+        {
+          "name": "Бальзамы и маски",
+          "link": "balzamy-i-maski",
+    	  "pic": "~/static/categories/бальзамы и маски.jpg"
+        },
+        {
+          "name": "Спреи и средства для груминга",
+          "link": "sprei-i-sredstva-dlya-gruminga",
+    	  "pic": "~/static/categories/спреи и средства для груминга.jpg"
+        },
+        {
+          "name": "Гигиена",
+          "link": "gigiena",
+    	  "pic": "~/static/categories/гигиена.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Содержание",
+      "link": "soderzhanie",
+    	  "pic": "~/static/categories/Содержание.jpg",
+      "subs": [
+        {
+          "name": "Клетки и боксы",
+          "link": "kletky-i-boksi",
+    	  "pic": "~/static/categories/клетки и боксы.jpg"
+        },
+        {
+          "name": "Расчески",
+          "link": "rascheski",
+    	  "pic": "~/static/categories/расчески.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Корма",
+      "link": "korma",
+    	  "pic": "~/static/categories/Корма.jpg",
+      "subs": [
+        {
+          "name": "Для кошек (сухой)",
+          "link": "dlya-koshek-sukhoi",
+    	  "pic": "~/static/categories/для кошек (сухой).jpg"
+        },
+        {
+          "name": "Для кошек (влажный)",
+          "link": "dlya-koshek-vlazhnyi",
+    	  "pic": "~/static/categories/для кошек (влажный).jpg"
+        },
+        {
+          "name": "Для собак (сухой)",
+          "link": "dlya-sobak-sukhoi",
+    	  "pic": "~/static/categories/для собак (сухой).jpg"
+        },
+        {
+          "name": "Для собак (влажный)",
+          "link": "dlya-sobak-vlazhnyi",
+    	  "pic": "~/static/categories/для собак (влажный).jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Витамины",
+      "link": "vitaminy",
+    	  "pic": "~/static/categories/Витамины.jpg",
+      "subs": [
+        {
+          "name": "Суставы и кости",
+          "link": "systavy-i-kosti",
+    	  "pic": "~/static/categories/суставы и кости.jpg"
+        },
+        {
+          "name": "Шерсть",
+          "link": "sherst",
+    	  "pic": "~/static/categories/шерсть.jpg"
+        },
+        {
+          "name": "Пищеварение",
+          "link": "pishchevarenie",
+    	  "pic": "~/static/categories/пищеварение.jpg"
+        },
+        {
+          "name": "Комплекс",
+          "link": "kompleks",
+    	  "pic": "~/static/categories/комплекс.jpg"
+        }
+      ]
+    }
+  ]
+}
